@@ -1,6 +1,6 @@
 export const metadata = {
-  title: 'LocalNotify - SMS Marketing',
-  description: 'Solution de SMS marketing pour entreprises',
+  title: 'LocalNotify',
+  description: 'Solution de SMS marketing',
 };
 
 export default function RootLayout({ children }) {
